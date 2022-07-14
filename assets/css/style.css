@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300&family=Ubuntu:wght@300&display=swap');
 
 body {
     background-color: black;
@@ -10,7 +10,7 @@ body {
 }
 
 #links {
-    font-family: "Oswald";
+    font-family: "Ubuntu";
 }
 
 .other-pages-header {
